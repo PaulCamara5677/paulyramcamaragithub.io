@@ -1,0 +1,62 @@
+@media(min-width:300px) and (max-width:576px){
+    .ourclient .col-lg-2{
+      float: left;
+      width: 29%;
+      padding: 0px;
+      margin-right: 6px;
+      margin-left: 57px;
+    }
+    .subscribe button{
+      margin: 20px auto;
+    }
+    .loading-screen h1{
+      font-size: 50px;
+    }
+    .fa-spinner:before{
+      font-size:.75em;
+    }
+    .scroll-top {
+      right: 5px;
+    }
+    .carousel-caption p{
+      text-shadow: 8px 8px 15px black;
+      color:white;
+      font-size: 17px;
+      line-height: 1em;
+      margin-bottom: 3rem;
+     }
+     .into h1{
+       font-size: 60px;
+       margin-bottom: 30px;
+       font-weight: 800;
+       font-family: 'Droid Sans', sans-serif;
+       letter-spacing: -5px;
+     }
+     .into P{
+       margin-bottom: 20px;
+       margin-top: 20px;
+       font-size: 16px;
+       font-family: 'Droid Sans', sans-serif;
+     }
+     .ceo h2{
+       font-size: 28px;
+       font-weight: 800;
+       font-family: 'Droid Sans', sans-serif;
+       letter-spacing:-2px;
+     }
+     .ceo p{
+       font-size: 16px;
+       font-family: 'Droid Sans', sans-serif;
+       line-height: 1.6;
+     }
+  }
+  @media(min-width:300px) and (max-width:1303px){
+    .carousel-caption p{
+      text-shadow: 8px 8px 15px black;
+      color:white;
+      font-size:20px;
+      line-height: 1em;
+      margin-bottom: 3rem;
+     }
+  
+  }
